@@ -1,8 +1,8 @@
 # -*- coding: utf-8 -*-
 """
-Created on Tue Oct  4 13:19:44 2022
+Created on Wed Dec  7 13:19:44 2022
 
-@author: Deepak
+@author: Ahijakollu
 """
 
 def factR(n):
